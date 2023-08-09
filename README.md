@@ -8,7 +8,7 @@ https://jayeshweather.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/KbhqBzW)
+![App Screenshot](https://iili.io/HD9U7mF.md.jpg)
 
 
 
