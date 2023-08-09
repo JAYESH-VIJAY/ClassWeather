@@ -4,11 +4,11 @@ A simple weather app that uses the OpenMeteo API to get the weather for a given 
 
 ## See full Preview
 
-    [https://jayeshweather.vercel.app/]
+https://jayeshweather.vercel.app/
 
 ## Screenshots
 
-![Project Screenshot](./ProjectImage.jpg)
+![App Screenshot](https://mega.nz/fm/kzACjD5Z)
 
 
 
@@ -40,7 +40,7 @@ This project is licensed under the MIT License.
 
 ## Subscribe to my YouTube channel for more coding tutorials!
 
-[https://www.youtube.com/@uniquecoder/]
+https://www.youtube.com/@uniquecoder/
 
 
 
