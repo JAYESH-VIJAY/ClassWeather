@@ -8,7 +8,7 @@ https://jayeshweather.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://mega.nz/fm/kzACjD5Z)
+![App Screenshot](https://ibb.co/KbhqBzW)
 
 
 
