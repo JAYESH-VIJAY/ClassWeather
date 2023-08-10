@@ -10,9 +10,6 @@ https://jayeshweather.vercel.app/
 
 ![image preview](https://iili.io/HD9U7mF.md.jpg)
 
-
-
-
 ## Installation
 
 1. Clone this repository to your local machine.
